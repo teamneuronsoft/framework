@@ -1,5 +1,5 @@
 {
-    "name": "teamneuronsoft/framework",
+    "name": "neuron/framework",
     "description": "Base framework for Neuron applications",
     "type": "project",
     "license": "Apache-2.0",
