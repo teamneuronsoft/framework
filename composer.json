@@ -1,0 +1,19 @@
+{
+    "name": "teamneuronsoft/framework",
+    "description": "Base framework for Neuron applications",
+    "type": "project",
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "Neuron\\Framework\\": "framework/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wogan May",
+            "email": "wogan@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
